@@ -199,17 +199,18 @@
 
 
 ### MorningMors
-- Application : 
-- Presentation Slide :
-- Github :
-- Appliation URL :
+- Application : EVENT RESERVATION PLATFORM
+- Presentation Slide : TBA
+- Github : TBA
+- Appliation URL : TBA
 - Member :
-  1. A
-  2. B
-  3. C
-  4. D
-  5. E
-  6. F
+  1. 6687008 Kantanat 
+  2. 6687027 Panaiyakorn
+  3. 6687033 Pichitchai
+  4. 6687038 Putinun
+  5. 6687058 Suveewat
+  6. 6687065 Poramee
+  7. 6687088 Thanason
 
 
 ### Salad-Pirate
